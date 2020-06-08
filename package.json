@@ -2,7 +2,7 @@
   "name": "dad_joke",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kaungkhantthar7777.github.io/dad-jokes",
+  "homepage": "https://KaungKhantThar7777.github.io/dad-jokes",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
